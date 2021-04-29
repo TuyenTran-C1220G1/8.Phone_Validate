@@ -1,0 +1,8 @@
+com/configuration/AppInitializer.java
+ com.configuration.AppInitializer
+com/configuration/AppConfiguration.java
+ com.configuration.AppConfiguration
+com/controller/PhoneController.java
+ com.controller.PhoneController
+com/model/PhoneNumber.java
+ com.model.PhoneNumber
